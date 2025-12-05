@@ -18,9 +18,9 @@ informações podem ajudar a mapear padrões por tipo e local.
 
 ## Tecnologias
 
--   **React Native** (Expo)\
--   **TypeScript**\
--   Gerenciador de pacotes: **npm** \
+-   **React Native** (Expo)
+-   **TypeScript**
+-   Gerenciador de pacotes: **npm** 
 -   Biblioteca de mapas: Integração com Azure Maps
 
 ------------------------------------------------------------------------
@@ -93,27 +93,8 @@ npx expo start
 
 ## Troubleshooting
 
--   Erros no mapa → verifique chave do Google Maps\
--   Erros no Expo → `npx expo start -c`\
+-   Erros no mapa → verifique chave do Google Maps
+-   Erros no Expo → `npx expo start -c`
 -   Permissão de localização → verificar AndroidManifest/Info.plist
 
 ------------------------------------------------------------------------
-
-## Contribuição
-
-1.  Fork\
-2.  Nova branch\
-3.  Commit\
-4.  Pull Request
-
-------------------------------------------------------------------------
-
-## Licença
-
-Licença MIT.
-
-------------------------------------------------------------------------
-
-## Imagens das telas
-
-As imagens usadas internamente estão no diretório `/mnt/data`.
